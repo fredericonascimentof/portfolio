@@ -1,8 +1,8 @@
-# Portfolio Online
+# Portfolio Online 🚀
 
 Bem-vindo ao meu portfolio online! Este é um projeto pessoal desenvolvido utilizando HTML e CSS para apresentar meu trabalho e habilidades de forma criativa e profissional.
 
-## Como Funciona
+## Como Funciona 🛠️
 
 Meu portfolio online consiste em várias páginas que destacam diferentes aspectos do meu trabalho e experiência. Aqui está uma visão geral das seções principais:
 
@@ -12,35 +12,38 @@ Meu portfolio online consiste em várias páginas que destacam diferentes aspect
   
 - **Currículo**: Uma página com meu currículo, destacando minha educação, experiência profissional e habilidades.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 💻
 
 - HTML5: Utilizado para estruturação do conteúdo das páginas.
   
 - CSS3: Utilizado para estilização e design responsivo das páginas.
 
-## Como Utilizar
+## Como Utilizar 🚀
 
-1. Clone este repositório:
+1. Clone este repositório utilizando o seguinte comando no terminal:
 
-git clone https://github.com/fredericonascimentof/portfolio.git
+https://github.com/fredericonascimentof/portfolio
+
 
 2. Abra o arquivo `index.html` em seu navegador preferido.
 
 3. Navegue pelas diferentes páginas para explorar meu portfolio e conhecer mais sobre meu trabalho.
 
-## Importante
+## Importante ℹ️
 
 **Embora o código e a estilização do portfolio estejam prontos, ainda estou trabalhando para adicionar minhas informações pessoais. Algumas seções podem estar incompletas.**
 
-## Contribuição
+## Contribuição 🤝
 
 Este é um projeto pessoal e atualmente não estou aceitando contribuições diretas. No entanto, fique à vontade para fazer fork deste repositório e adaptá-lo ao seu próprio portfolio!
 
-## Contato
+## Contato 📧
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo através do formulário na página de contato do meu portfolio.
 
-Obrigado por visitar!
+Obrigado por visitar! 🌟
+
+![Star Wars GIF](https://media.giphy.com/media/3ohhwgjPrMTl1J1FFK/giphy.gif)
 
 ---
 
