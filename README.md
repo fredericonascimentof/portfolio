@@ -43,7 +43,7 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 
 Obrigado por visitar! 🌟
 
-![Star Wars GIF](https://giphy.com/gifs/xUOxfg0ESyhKOv4Vva)
+![GIF](https://giphy.com/gifs/xUOxfg0ESyhKOv4Vva)
 
 ---
 
