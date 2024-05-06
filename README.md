@@ -43,7 +43,7 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 
 Obrigado por visitar! 🌟
 
-![GIF](https://giphy.com/gifs/xUOxfg0ESyhKOv4Vva)
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ0cTUwbWoyaGlscjB2b3M5MGF5NDJmMDl3a2Jwa2hrY293MGRoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxfg0ESyhKOv4Vva/giphy.gif)
 
 ---
 
